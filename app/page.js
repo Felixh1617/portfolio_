@@ -49,9 +49,9 @@ const systems = [
 const experience = [
   {
     org: "THE PHOENIX DAO",
-    detail: "XDAO Labs, Singapore",
+    detail: "XDAO Labs, Singapore · Cert. ID CLL#16361274",
     title: "Founder",
-    body: "Founded and ran a DAO initiative, applying on-chain governance mechanisms in a live setting rather than in theory.",
+    body: "Founded and incorporated a non-profit DAO (certificate of incorporation issued 1 Mar 2025, XDAO Labs, Singapore), applying on-chain governance mechanisms in a live setting rather than in theory.",
   },
   {
     org: "UPDOWN TRADE SARL",
@@ -89,14 +89,34 @@ const certifications = [
     when: "Mar–Apr 2026",
   },
   {
+    org: "XDAO Labs, Singapore",
+    name: "Certificate of Incorporation — THE PHOENIX (non-profit DAO), CLL#16361274",
+    when: "Mar 2025",
+  },
+  {
     org: "Infosys Springboard",
     name: "Solidity Smart Contract Programming for Ethereum Blockchain",
     when: "Feb 2025",
   },
   {
+    org: "Oracle Academy",
+    name: "Database Foundations — course + final exam",
+    when: "Nov 2024",
+  },
+  {
+    org: "Oracle Academy",
+    name: "Database Programming with PL/SQL — course + Semester 1 & 2 final exams",
+    when: "Nov 2024",
+  },
+  {
     org: "NPTEL",
     name: "Corporate Social Responsibility — 8-week course",
     when: "Jul–Sep 2024",
+  },
+  {
+    org: "Oracle Academy",
+    name: "Java Fundamentals — course + final exam",
+    when: "Apr 2024",
   },
   {
     org: "NPTEL",
@@ -109,9 +129,24 @@ const certifications = [
     when: "2024",
   },
   {
+    org: "Oracle Academy",
+    name: "Java Foundations — course + final exam",
+    when: "Nov 2023",
+  },
+  {
+    org: "Udemy",
+    name: "The Complete Python Bootcamp: From Zero to Hero in Python (22 hrs) — Jose Portilla",
+    when: "Oct 2023",
+  },
+  {
     org: "Coursera Project Network",
     name: "Create Your First Python Program",
     when: "Jul 2023",
+  },
+  {
+    org: "EZ Trainings & Technologies / Sharda Informatics",
+    name: "Summer Bootcamp — MERN Stack",
+    when: "Sharda University",
   },
 ];
 
